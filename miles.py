@@ -4,6 +4,7 @@ window = tkinter.Tk()
 window.title("CONVERT MILES TO KILOMETER")
 window.iconbitmap("icons8_calculator.ico")
 window.geometry("600x200")
+window.resizable(0, 0)
 window.config(bg="#123456")
 
 
